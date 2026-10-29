@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:30/10/2026
+## Reference Number:26018647
+## Name: M SIVA GOWTHAM
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,29 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+### We propose developing an end-to-end digital marketplace platform  named "Farm2Market" that bridges the gap between smallholder farmers, Farmer Producer Organizations (FPOs), bulk buyers, and end-consumers. 
+### The platform features:
+​###   A transparent, real-time price discovery mechanism based on regional demand and supply.
+​###   Direct digital contracting and escrow-secured payment gateways.
+​###   An integrated logistics module connecting farmers with verified third-party freight and cold-chain providers.
+​###   An intelligent dashboard powered by AI for predictive demand forecasting and dynamic route optimization.
+
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+​### Programming Languages: Python (for AI/ML models), JavaScript/TypeScript.
+​### Frameworks & Libraries: React.js (Web Frontend), React Native (Cross-platform Mobile App), Node.js & Express.js (Backend REST APIs).
+​### Database & Cloud: PostgreSQL (Relational database for transactions), Redis (Real-time caching and tracking), AWS / Google Cloud Platform (Cloud infrastructure and hosting).
+​### APIs: Google Maps API / OpenStreetMap 
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The solution is highly feasible given the rapid growth of smartphone and internet penetration in rural regions, robust government backing of FPOs , and alignment with open digital commerce frameworks.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+### Empower thousands of smallholder farmers and FPOS with financial independence, price transparency and predictable income while relieving urban consumers from food prices.
+### increase income for the farmer and reduce procurement cost for bulk buyers.
+### strength the cooperative FPO ecosystem, enhances financial inclusion and curtails agricultural distress sales.
 
-## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+## Research and References:
+ ### National agricultural market(e-NAM)
+ ### Open Government data(OGD)
